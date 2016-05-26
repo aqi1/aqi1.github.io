@@ -18,6 +18,7 @@ function main() {
     $button1 = $("#button1"),
     $button2 = $("#button2"),
     $button3 = $("#button3"),
+		$calculator = $(".calculator"),
     $calcButton = $("#calcButton"),
     $calcResultsBox = $("#calcResultsBox"),
     $weight = $("#weight"),
@@ -211,4 +212,5 @@ function main() {
       $weightTarget.text($slider.slider("value") + " kg");
     }
   }
+	
 };
