@@ -2,4 +2,6 @@
 
 View at http://aqi1.github.io
 
-Calculates BMR, TDEE, BMI
+Learning Bootstrap
+* Calculates BMR, TDEE, & BMI.
+* Accepts imperial or metric units.
