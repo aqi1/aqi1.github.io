@@ -1,4 +1,5 @@
 # calorie-calculator
-Calculates BMR, TDEE, BMI
 
-Allows imperial or metric unit input
+View at http://aqi1.github.io
+
+Calculates BMR, TDEE, BMI
